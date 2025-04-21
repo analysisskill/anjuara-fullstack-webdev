@@ -35,7 +35,7 @@ const Header = () => {
         <div className="container">
           <div className="st-main-header-in">
             <div className="st-main-header-left">
-              <Link className="st-site-branding" to='/' id="hero"><img src="/images/Arif Hossain.png" alt="Davis" /></Link>
+              <Link className="st-site-branding site-logo" to='/' id="hero"><img className="site-logo" src="/images/Arif Hossain Full Stack Developer wordpress shopify.png" alt="Arif Hossain Full Stack Developer" /></Link>
             </div>
             <div className="st-main-header-right">
               <div className="st-nav">

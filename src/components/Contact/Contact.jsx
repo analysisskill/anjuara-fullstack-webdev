@@ -164,7 +164,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Email</h4>
-                  <Link to="mail:hi@marketerarif.com">hi@marketerarif.com</Link>
+                  <Link to="mail:arifhossain.mern@gmail.com">arifhossain.mern@gmail.com</Link>
                   <Link to="mail:info@trackingbygtm.com">info@trackingbygtm.com</Link>
                 </div>
               </div>

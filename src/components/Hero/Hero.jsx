@@ -1,3 +1,4 @@
+import { Icon } from '@iconify/react/dist/iconify.js';
 import parser from 'html-react-parser';
 import PropTypes from 'prop-types';
 import { useEffect } from 'react';
@@ -5,7 +6,7 @@ import SocialLinks from '../SocialLinks/SocialLinks';
 import './Hero.scss';
 
 const Hero = ({ data, socialData }) => {
-  const { subTitle, designation, imgLink, title, bgImgLink, fiverr, upwork, } = data;
+  const { subTitle, designation, imgLink, title, bgImgLink, fiverr, upwork, youtube } = data;
    
   useEffect(() => {
     const handleScroll = () => {
@@ -39,6 +40,7 @@ const Hero = ({ data, socialData }) => {
             <h2 data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
               {designation}
             </h2>
+            
             <div
               className="st-hero-btn"
               data-aos="fade-up"
@@ -54,6 +56,11 @@ const Hero = ({ data, socialData }) => {
               {/* Link to Fiverr */}
               <a className='st-btn st-style1 st-color3' href={fiverr} target="_blank" rel="noopener noreferrer">
                 Hire me on Fiverr
+              </a>
+              {/* Link to youtube */}
+              <a className='st-btn st-style3 st-color3' href={youtube} target="_blank" rel="noopener noreferrer">
+                <span className="st-social-icon"><Icon icon="fa6-brands:youtube"/></span>
+                        
               </a>
 
              

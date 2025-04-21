@@ -3,7 +3,7 @@ import SectionHeading from '../SectionHeading/SectionHeading';
 import './Skill.scss';
 
 const Skill = ({ data }) => {
-  const { title, text, skills } = data;
+  const { title, text, skills, fiverr, upwork } = data;
   return (
     <section className="st-dark-bg">
       <div className="st-height-b100 st-height-lg-b80"></div>
@@ -11,28 +11,27 @@ const Skill = ({ data }) => {
       <div className="container">
         <div className="row">
           <div className="col-lg-6">
-            <div className="st-skill-wrap">
+            <div className="st-skill-wrap mb-20 ">
               <div
                 className="st-skill-heading"
                 data-aos="fade-right"
-                data-aos-duration="800"
+                data-aos-duration="800" 
               >
                 <h2 className="st-skill-title">{title}</h2>
-                <div className="st-skill-subtitle">{text}</div>
-                <div
-              className="st-hero-btn"
+                <div className="st-skill-subtitle mt-20">{text}</div>
+
+                <div className="st-hero-btn mt-20"
               data-aos="fade-up"
               data-aos-duration="800"
-              data-aos-delay="500"
-            >
+              data-aos-delay="500">
              
              {/* Link to Upwork */}
-             <a className='st-btn st-style1 st-color1  mr-5' href='' target="_blank" rel="noopener noreferrer">
+             <a className='st-btn st-style1 st-color1  mr-5 ' href={upwork} target="_blank"rel="noopener noreferrer">
                 Hire me on Upwork
               </a>
 
               {/* Link to Fiverr */}
-              <a className='st-btn st-style1 st-color3' href='' target="_blank" rel="noopener noreferrer">
+              <a className='st-btn st-style1 st-color3' href={fiverr} target="_blank" rel="noopener noreferrer">
                 Hire me on Fiverr
               </a>
 
