@@ -374,16 +374,6 @@
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
-      },
-      {
-        "imgLink": "/images/marketerarifImages/gmc/google merchant center 3.webp",
-        "imgLinkLg": "/images/marketerarifImages/gmc/google merchant center 3.webp",
-        "title": "Google Merchant Center",
-        "subTitle": "Targeted Shopping Ads",
-        "description": "Utilized Google Merchant Center to create seasonal product listings, resulting in a 25% increase in sales during holiday seasons through customized shopping campaigns.",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
       }
     ]
   },
