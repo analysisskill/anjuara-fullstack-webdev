@@ -5,7 +5,7 @@
       "imgLink": "/images/marketerarifImages/marketerarifHossain.jpg",
       "title": "Arif <br /> Hossain",
       "subTitle": "Hello, I’m",
-      "designation": "Wordpress and Ecommerce Developer",
+      "designation": "Wordpress & Ecommerce Developer",
       "fiverr": "https://www.fiverr.com/elementor_",
       "upwork": "https://www.upwork.com/freelancers/trackingbygtm",
       "youtube": "https://www.youtube.com/@marketerarifhossain"
@@ -264,6 +264,126 @@
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/Googleads/Google ads  result 1.png",
+        "imgLinkLg": "/images/marketerarifImages/Googleads/Google ads  result 1.png",
+        "title": "Search Ads Campaign",
+        "subTitle": "Targeting for Maximum ROI ",
+        "description": "A successful Google Ads campaign aimed at eCommerce shoppers, focusing on high-intent search terms, resulting in a 35% increase in conversion rates.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/Googleads/Google ads  result  4.png",
+        "imgLinkLg": "/images/marketerarifImages/Googleads/Google ads  result  4.png",
+        "title": "Remarketing Success Story",
+        "subTitle": " Bringing Back Lost Customers",
+        "description": "A remarketing strategy targeting previous visitors, achieving a 40% increase in returning customers and improved customer retention rates.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/Googleads/Google ads  result 3.png",
+        "imgLinkLg": "/images/marketerarifImages/Googleads/Google ads  result 3.png",
+        "title": "Google Shopping Campaign ",
+        "subTitle": "Enhancing Product Listings",
+        "description": "A Google Shopping campaign with enhanced product listings and bid adjustments, resulting in a 15% increase in product page clicks and sales.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/GoogleAnalytics4/Google analytics 4  1.webp",
+        "imgLinkLg": "/images/marketerarifImages/GoogleAnalytics4/Google analytics 4  1.webp",
+        "title": "Google Analytics (GA4)",
+        "subTitle": "Enhanced eCommerce Tracking Setup",
+        "description": "Setting up enhanced eCommerce tracking for an online store, enabling deeper insights into product performance and user behavior, resulting in a 20% boost in sales.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/GoogleAnalytics4/Google analytics 4 .webp",
+        "imgLinkLg": "/images/marketerarifImages/GoogleAnalytics4/Google analytics 4 .webp",
+        "title": "Advanced Goal Conversion Tracking ",
+        "subTitle": "Measuring Success through Accurate Conversion Data",
+        "description": "Implementing advanced goal tracking to measure critical business outcomes, leading to a 15% improvement in marketing campaign performance.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/GoogleLookerStudio/Googlelooker 1.webp",
+        "imgLinkLg": "/images/marketerarifImages/GoogleLookerStudio/Googlelooker 1.webp",
+        "title": "Googlr Looker Studio",
+        "subTitle": " Sales Performance Dashboard",
+        "description": "A Google Looker dashboard providing real-time sales data, helping business stakeholders make quick, informed decisions, leading to a 25% improvement in sales strategy.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/fbpixel/facebook pixel.webp",
+        "imgLinkLg": "/images/marketerarifImages/fbpixel/facebook pixel.webp",
+        "title": "Enhanced Conversion Tracking",
+        "subTitle": "Collection for eCommerce Data",
+        "description": "Implemented Facebook's Conversion API to capture server-side data, improving the accuracy of conversion tracking by 30% and reducing data loss from ad blockers.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/fbpixel/facebook pixel 1.webp",
+        "imgLinkLg": "/images/marketerarifImages/fbpixel/facebook pixel 1.webp",
+        "title": "FB Conversion API",
+        "subTitle": "Data Accuracy Boost with Conversion API ",
+        "description": "Integrated Facebook's Conversion API to improve the reliability of ad data, resulting in a 20% increase in campaign performance by better matching conversions to ad interactions.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/GoogleLookerStudio/Googlelooker 2.webp",
+        "imgLinkLg": "/images/marketerarifImages/GoogleLookerStudio/Googlelooker 2.webp",
+        "title": "Product Performance Dashboard ",
+        "subTitle": "Monitoring Top-Performing Products",
+        "description": "A detailed Google Looker dashboard tracking product performance, helping the client optimize inventory and focus on best-sellers, leading to a 30% increase in sales.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/gmc/google merchant center 1.webp",
+        "imgLinkLg": "/images/marketerarifImages/gmc/google merchant center 1.webp",
+        "title": "Google merchant center ",
+        "subTitle": "Optimizing Product Listings",
+        "description": "Developed and optimized product feeds for Google Merchant Center, leading to a 35% increase in product visibility and a 20% boost in sales through Shopping Ads.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/gmc/google merchant center 2.webp",
+        "imgLinkLg": "/images/marketerarifImages/gmc/google merchant center 2.webp",
+        "title": "Advanced Feed Management ",
+        "subTitle": "Listings for Better Performance",
+        "description": "Managed and optimized product feeds for over 10,000 SKUs, reducing feed errors by 40% and improving campaign efficiency by generating targeted Google Shopping ads.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/gmc/google merchant center 3.webp",
+        "imgLinkLg": "/images/marketerarifImages/gmc/google merchant center 3.webp",
+        "title": "Google Merchant Center",
+        "subTitle": "Targeted Shopping Ads",
+        "description": "Utilized Google Merchant Center to create seasonal product listings, resulting in a 25% increase in sales during holiday seasons through customized shopping campaigns.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
       }
     ]
   },

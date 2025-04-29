@@ -184,7 +184,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Address</h4>
-                  <span>BangaBandhu Avenue Corporate, Gulistan 
+                  <span>Komolapur, Motijhill Dhaka 1000, Bangladesh 
                   <br />Motijhill Dhaka 1000</span>
                 </div>
               </div>
